@@ -20,24 +20,24 @@ Here are some ideas to get you started:
 <h1>✨ hi there .ᐟ.ᐟ</h1>
 <samp>
   
-  hi! i'm cozy, also known as shazim 👋
+  hi! i'm shazim, also known as shai 👋
   <br>
   i like music, games, coding, & more 🎵
   <br>
   <br>
-  moderator on LeoneMC for over a year ⚔️
+  senior moderator on LeoneMC for over a year ⚔️
   <br>
-  getting into java and kotlin 🌊
+  getting into discord.js 🌊
   <br>
   <br>
-  currently working on minecraft plugins 💫
+  currently working on discord bots 💫
   <br>
-  more about me: <a href="https://shazim.org/#portfolio">[portfolio]</a> <-- Work in Progress
+  more about my work: <a href="https://shazim.org/#portfolio">[portfolio]</a> <-- Work in Progress
   <br>
-  website: <a href="https://shazim.org">shazim.org</a> | discord: <a href="https://discord.com/users/810632160418988053">@cozykittyy.</a>
+  personal website: <a href="https://shazim.org">shazim.org</a> | discord: <a href="https://discord.com/users/810632160418988053">@shxzim</a>
 </samp>
 
-<img alt="discord proflie: @cozykittyy." src="https://discord.c99.nl/widget/theme-2/810632160418988053.png">
+<img alt="discord proflie: @shxzim" src="https://discord.c99.nl/widget/theme-2/810632160418988053.png">
 
 
 
