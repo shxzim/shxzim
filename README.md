@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   i like music, games, coding, & more 🎵
   <br>
   <br>
-  senior moderator on LeoneMC for over a year ⚔️
+  senior moderator on LeoneMC ⚔️
   <br>
   getting into discord.js 🌊
   <br>
